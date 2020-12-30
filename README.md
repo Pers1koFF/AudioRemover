@@ -1,1 +1,2 @@
-# AudioRremover
+# AudioRemover
+Удаляет с видео звук.
